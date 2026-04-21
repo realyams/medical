@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_49937",
+    "output": "Axial CT thorax postintravenous contrast at the level of T6: diffuse bilateral hilar lymphadenopathy from biopsy-proven multiple myeloma (arrows)."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_64389",
+    "output": "CT of abdomen showing pancreas head stranding, with uniform enhancement, consistent with inflammation and interstitial pancreatitis."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_42571",
+    "output": "Sonography image showing a 7.9-cm mass with free fluid [←] around it"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_47167",
+    "output": "Endoscopic ultrasound image of cystic pancreatic lesion"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_18254",
+    "output": "Muscles undercover of trapezius seen after reflecting it laterally. LS, levator scapulae; Rh, rhomboides; Tz, trapezius."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_66415",
+    "output": "Anteroposterior view skull X-ray: Ghost like appearance (alien look) with cranial hyperostosis and broadening of mandible"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_10442",
+    "output": "Right mediolateral oblique (MLO) view shows a blob of silicone (arrow) extruded into breast tissue in extracapsular rupture"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_40348",
+    "output": "Subcostal two-dimensional echocardiographic short axis view with color doppler showing a suggestion of IVC flow being directed to the left atrium"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_81081",
+    "output": "An axial CT image shows collection in the gall bladder fossa closely resembling a normal gallbladder appearance."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_80922",
+    "output": "Computed tomography of abdomen demonstrates diffuse thickening of the distal esophageal wall."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_66482",
+    "output": "Anterior segment OCT on the day of admission to our hospital (postoperative day 6). The anterior chamber was very shallow (0.46 mm). Anterior segment OCT clearly revealed a fibrin membrane across the pupil (arrow) and iridocorneal contact. The IOL was not observed by anterior segment OCT. Note the deep posterior chamber."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_11105",
+    "output": "Abdominal contrast–enhanced computer tomography (CT) shows residual extravasation of contrast inside the aneurysm sac after transcatheter embolization of inflow and outflow of the aneurysm with microcoils (white arrow)."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_18543",
+    "output": "Large left pleural effusion with compressive left lower lobe atelectasis. Chest tube is in place."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_78097",
+    "output": "Proximal focal femoral deficiency: Frontal radiograph of the pelvis and both hips shows that the proximal femur is absent and the acetabulum is malformed on the left side. Only a hypoplastic portion of the distal left femur is apparent"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_72094",
+    "output": "CT scan of the orbits and brain, coronal view. Soft tissue density collection on the floor of the right orbit, elevating the inferior rectus muscle, extending posteriorly to the apex of the orbit."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_02114",
+    "output": "Panoramic radiograph of a 2-year-old patient at diagnosis who was submitted to chemotherapy and 1,800 cGy irradiation. Note microdontia of the lower left premolars and second permanent molar."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_60960",
+    "output": "CT Image showing bilateral ophthalmic vein thrombosis with cavernous sinus thrombosis"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_80094",
+    "output": "Computed tomography angiography (CTA) shows more obvious extraocular and introcular muscle enlargement on the right (white stars), and confirms the connection between the internal carotid artery and the cavernous sinus on both sides (white arrows)."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_70035",
+    "output": "Proton density fat saturation coronal magnetic resonance imaging. The metal interference screw on the femoral side (black asterisk) is responsible of marked artifact that could hinder the evaluation of tunnel placement, differently from the bioabsorbable interference screw on the tibial side (white asterisk)."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_48371",
+    "output": "All perforations were measured in mm. If the perforated part of the pedicle was not visible due to interferences caused by the screw, the diameter of the nonperforated side was measured, serving as reference (A and B). Assuming a similar pedicle size on the perforated side, these distances were used to define the invisible pedicle wall on the perforated side (A* and B* = A and B). Then the magnitude of the perforation was determined (C). (Red line: midline of the pedicle; dashed white line: assumed pedicle wall; dotted red line: exactly definable bony margins)."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_45280",
+    "output": "Papillary adenoma with minimally ductal invasion diagnosed by ERCP (9 mm)"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_24560",
+    "output": "Transmural myocardial infarction in a SLE patient.Note: The arrows show area of transmural myocardial infarction in a patient with SLE.Abbreviation: SLE, systemic lupus erythematosus."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_67035",
+    "output": "MRI coronal view of polymicrogyria (encircled in black) in a proven congenital CMV infection. Also note the hypoplastic corpus callosum."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_02442",
+    "output": "Axial contrast enhanced CT at the level of C1. Left parotid arteriovenous malformation with a left external carotid artery branch feeding vessel (straight arrow), along with an enlarged draining vein (curved arrow)"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_14084",
+    "output": "One-month review after radiofrequency ablation (RFA) showed a total necrotic lesion without arterial phase enhancement (arrow)."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_68922",
+    "output": "Superior mesenteric angiogram showing abnormal contrast media extravasation from ileal artery (arrow)."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_20113",
+    "output": "Preoperative CT scan showing metal coils of previous SRAE. SRAE, selective renal artery embolization."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_50757",
+    "output": "CT Venogram of brain showing patent deep venous system including inferior sagittal sinus, internal cerebral & basal veins, vein of Galen and straight sinus"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_24295",
+    "output": "Magnetic resonance imaging scan of the patient. The arrow indicates cerebellar atrophy, while the arrowhead points to the dilated 4th ventricle."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_50160",
+    "output": "Radiographie du thorax à l'admission en cardiologie"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_71291",
+    "output": "Multiple, golden, tiny, crystalline, refractile deposits near the inner retinal surface."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_07887",
+    "output": "A 66-year-old female with endometrial cancer. Axial T2W MR images show an enlarged left pelvic lymph node (arrow) suggestive of regional pelvic lymph node involvement indicating stage IIIC1 disease"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_44793",
+    "output": "Image scannographique montrant des lésions atropho-cicatricielles au niveau du cervelet chez le patient n°2"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_44728",
+    "output": "Preoperative MRI of Case 1Preoperative MRI depicting a homogenously enhancing lesion originating from the jugular foramen."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_50576",
+    "output": "CT angiography of the lower limbs showing distal posterior and anterior tibial artery occlusion of the left side and three-vessel occlusion of the right side."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_66697",
+    "output": "Axial CT scan with contrast at T4, showing retrosternal extension of the left thyroid lobe, with maximal diameter of 78 mm."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_51734",
+    "output": "AP Chest X ray demonstrating right aortic arch (arrow), clear lung fields without cardiomegaly."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_40994",
+    "output": "Fluoroscopic view of balloon dilation of the tract."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_60404",
+    "output": "Bony Window Skull Base Reformed Computed Tomography Scan"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_61612",
+    "output": "Chronic hypersensitivity pneumonitis. HRCT at the level of the lower lobes demonstrates a coarse “reticular pattern” with traction bronchiolectasis and bronchiectasis, thickening of the intralobular and peribronchovascular interstitium and ground-glass opacity. The presence of lobular areas of decreased attenuation offers a “key” for the diagnosis of chronic hypersensitivity pneumonitis"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_06705",
+    "output": "Digitized dental panoramic radiographs showing two boxes corresponding to the region of interest between the mental foramen and angle of the mandible on the right and left sides of the mandible."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_08168",
+    "output": "CT quantification of hemoperitoneum.The depth in the anterior cul-de-sac and the posterior cul-de-sac are defined the distance from the anterior peritoneum to the anterior uterine wall and the distance from the posterior uterine wall to the rectum, respectively."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_73328",
+    "output": "Image demonstrating the injectate accumulates at the bottom in lateral decubitus position."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_43551",
+    "output": "Plain CT scan demonstrated 10 mm × 15 mm right frontal intracerebral hemorrhage (arrow)."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_03989",
+    "output": "Focus of inflammation in the central nervous system seen in NMR scan."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_05567",
+    "output": "C-arm fluoroscopy image after Edwards Sapien homogeneous deployment."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_81331",
+    "output": "Radiologic characterization of the lesion. CT imaging revealed a highly enhanced intramural mass (1.3 cm in maximum diameter; white arrows) in the proximal sigmoid colon."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_02952",
+    "output": "Real-time ultrasound view of needle insertion. The needle tip in the anterior synovial recess just distal to the femoral head is indicated with the long arrow. The femoral neck identified is indicated with the shorter arrow."
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_38972",
+    "output": "Axial T1-weighted Spin Echo MR image demonstrates a low signal rim (arrow) outlining the loose body. This partial visibility of the border of the loose body helps support the calcific nature of the loose material. [Powerpoint Slide]"
+  },
+  {
+    "instruction": "Analyze this medical image and describe the clinical observations.",
+    "input": "",
+    "image_id": "ROCO_79688",
+    "output": "CT scan of left lower extremity showing a 25 mm × 40 mm × 140 mm fluid collection (↔) and peripheral enhancement of the gluteus medius and vastus lateralis muscles."
+  }
+]
