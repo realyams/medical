@@ -1,7 +1,10 @@
+# ONLY heavy weights
 medical_llava_perfect/
 medical_llava_weights.zip
 *.safetensors
 *.bin
 *.pth
+
+# Python junk
 __pycache__/
 .venv/
