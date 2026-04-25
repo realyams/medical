@@ -1,0 +1,7 @@
+medical_llava_perfect/
+medical_llava_weights.zip
+*.safetensors
+*.bin
+*.pth
+__pycache__/
+.venv/
