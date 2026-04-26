@@ -87,8 +87,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         try {
             // Call the FastAPI Backend
-            const response = await fetch('http://localhost:8000/api/analyze', {
+            const response = await fetch('/api/analyze', {
                 method: 'POST',
+                headers: {
+                    'ngrok-skip-browser-warning': 'true'
+                },
                 body: formData
             });
 
