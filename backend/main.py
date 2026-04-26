@@ -33,7 +33,7 @@ async def analyze_case(
         image_bytes = await image.read()
 
     try:
-        from ai_service import analyze_medical_data
+        from backend.ai_service import analyze_medical_data
         
         # Run the AI analysis
         ai_result = analyze_medical_data(context, image_bytes)
