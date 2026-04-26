@@ -39,12 +39,14 @@ async def analyze_case(
         ai_result = analyze_medical_data(context, image_bytes)
         
         if "error" in ai_result:
-            # Fallback to mock data if model is not loaded or failed
-            print(f"AI Model Error: {ai_result['error']}, Details: {ai_result.get('details')}")
-            from mock_data import MOCK_RESPONSE_QA, MOCK_RESPONSE_TEXT_ONLY
-            selected_mock = MOCK_RESPONSE_QA if has_image else MOCK_RESPONSE_TEXT_ONLY
-            results = selected_mock
-            status = "fallback_mock"
+            # Return the exact error so we can debug why the model failed
+            error_msg = f"AI Error: {ai_result['error']} | {ai_result.get('details')}"
+            results = {
+                "observations": [error_msg],
+                "suspected_pathologies": [{"name": "Error Loading AI", "confidence": 0}],
+                "recommended_exams": ["Check backend logs"]
+            }
+            status = "error"
         else:
             # Format the AI output to match the expected frontend structure
             results = {
@@ -57,10 +59,14 @@ async def analyze_case(
             status = "success"
 
     except Exception as e:
-        print(f"Exception during AI analysis: {e}")
-        from mock_data import MOCK_RESPONSE_QA, MOCK_RESPONSE_TEXT_ONLY
-        results = MOCK_RESPONSE_QA if has_image else MOCK_RESPONSE_TEXT_ONLY
-        status = "fallback_mock"
+        error_msg = f"Critical Server Error: {str(e)}"
+        print(error_msg)
+        results = {
+            "observations": [error_msg],
+            "suspected_pathologies": [{"name": "Fatal Exception", "confidence": 0}],
+            "recommended_exams": ["Check Kaggle Console"]
+        }
+        status = "error"
     
     response = {
         "status": status,
